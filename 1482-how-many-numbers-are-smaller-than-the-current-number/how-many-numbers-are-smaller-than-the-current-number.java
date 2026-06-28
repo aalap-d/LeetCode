@@ -7,7 +7,7 @@ class Solution {
         
         Map<Integer, Integer> m = new HashMap<>();
         for (int i = 0; i < s.length; i++) {
-            // Only put if not present to handle duplicates (keep the smallest index)
+            
             m.putIfAbsent(s[i], i);
         }
         
