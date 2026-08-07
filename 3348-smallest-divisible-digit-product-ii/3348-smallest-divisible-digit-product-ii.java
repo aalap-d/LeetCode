@@ -1,13 +1,12 @@
 class Solution {
     public String smallestNumber(String num, long t) {
-        // Step 1: Prime factorize t into 2, 3, 5, 7
         long temp = t;
         int r2 = 0, r3 = 0, r5 = 0, r7 = 0;
         while (temp % 2 == 0) { temp /= 2; r2++; }
         while (temp % 3 == 0) { temp /= 3; r3++; }
         while (temp % 5 == 0) { temp /= 5; r5++; }
         while (temp % 7 == 0) { temp /= 7; r7++; }
-        if (temp > 1) return "-1"; // Prime factor > 7 cannot be formed by single digits
+        if (temp > 1) return "-1"; 
 
         int n = num.length();
         int[] p2 = new int[n + 1];
@@ -29,14 +28,12 @@ class Solution {
             p7[i + 1] = p7[i] + f(v, 7);
         }
 
-        // Check if num itself is valid (no zeros and product divisible by t)
         if (z == -1 && p2[n] >= r2 && p3[n] >= r3 && p5[n] >= r5 && p7[n] >= r7) {
             return num;
         }
 
         int limit = (z == -1) ? n - 1 : z;
 
-        // Try matching a prefix of length i (from left to right)
         for (int i = limit; i >= 0; i--) {
             int start = num.charAt(i) - '0' + 1;
             
@@ -67,7 +64,6 @@ class Solution {
             }
         }
 
-        // If no same-length number works, construct the smallest valid number of greater length
         int[] counts = getD(r2, r3, r5, r7);
         int req = 0;
         for (int k = 2; k <= 9; k++) req += counts[k];
