@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aalap-d/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aalap-d/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aalap-d/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/aalap-d/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3310-remove-methods-from-project](https://github.com/aalap-d/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aalap-d/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aalap-d/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/aalap-d/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/aalap-d/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Enumeration
 |  |
@@ -198,12 +200,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-count-the-number-of-complete-components](https://github.com/aalap-d/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aalap-d/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aalap-d/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/aalap-d/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Binary Search
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aalap-d/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aalap-d/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aalap-d/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/aalap-d/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/aalap-d/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Bit Manipulation
 |  |
@@ -232,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aalap-d/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/aalap-d/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
