@@ -8,17 +8,20 @@ class Solution {
                 mx3 = mx2;
                 mx2 = mx1;
                 mx1 = x;
-            } else if (x > mx2) {
+            } 
+            else if (x > mx2) {
                 mx3 = mx2;
                 mx2 = x;
-            } else if (x > mx3) {
+            } 
+            else if (x > mx3) {
                 mx3 = x;
             }
 
             if (x < mn1) {
                 mn2 = mn1;
                 mn1 = x;
-            } else if (x < mn2) {
+            } 
+            else if (x < mn2) {
                 mn2 = x;
             }
         }
