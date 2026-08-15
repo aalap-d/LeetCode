@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aalap-d/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/aalap-d/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/aalap-d/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/aalap-d/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/aalap-d/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3869-count-fancy-numbers-in-a-range](https://github.com/aalap-d/LeetCode/tree/master/3869-count-fancy-numbers-in-a-range) |
 ## Recursion
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/aalap-d/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/aalap-d/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/aalap-d/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/aalap-d/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aalap-d/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Topological Sort
 |  |
