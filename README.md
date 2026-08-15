@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3691-maximum-total-subarray-value-ii](https://github.com/aalap-d/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aalap-d/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/aalap-d/LeetCode/tree/master/3731-find-missing-elements) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/aalap-d/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3866-first-unique-even-element](https://github.com/aalap-d/LeetCode/tree/master/3866-first-unique-even-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aalap-d/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/aalap-d/LeetCode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aalap-d/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/aalap-d/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3731-find-missing-elements](https://github.com/aalap-d/LeetCode/tree/master/3731-find-missing-elements) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/aalap-d/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3866-first-unique-even-element](https://github.com/aalap-d/LeetCode/tree/master/3866-first-unique-even-element) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/aalap-d/LeetCode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 ## Combinatorics
