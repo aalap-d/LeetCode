@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aalap-d/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/aalap-d/LeetCode/tree/master/1861-rotating-the-box) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aalap-d/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aalap-d/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aalap-d/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aalap-d/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/aalap-d/LeetCode/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aalap-d/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/aalap-d/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aalap-d/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/aalap-d/LeetCode/tree/master/2751-robot-collisions) |
 ## Monotonic Stack
 |  |
@@ -535,4 +537,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/aalap-d/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
+## Linked List
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aalap-d/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
