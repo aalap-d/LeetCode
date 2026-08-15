@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/aalap-d/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/aalap-d/LeetCode/tree/master/0877-stone-game) |
 | [0941-valid-mountain-array](https://github.com/aalap-d/LeetCode/tree/master/0941-valid-mountain-array) |
+| [1046-last-stone-weight](https://github.com/aalap-d/LeetCode/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/aalap-d/LeetCode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/aalap-d/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/aalap-d/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1046-last-stone-weight](https://github.com/aalap-d/LeetCode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aalap-d/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aalap-d/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aalap-d/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
