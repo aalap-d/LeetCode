@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/aalap-d/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0657-robot-return-to-origin](https://github.com/aalap-d/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aalap-d/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/aalap-d/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aalap-d/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aalap-d/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/aalap-d/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/aalap-d/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aalap-d/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/aalap-d/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2833-furthest-point-from-origin](https://github.com/aalap-d/LeetCode/tree/master/2833-furthest-point-from-origin) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aalap-d/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/aalap-d/LeetCode/tree/master/0645-set-mismatch) |
 | [0874-walking-robot-simulation](https://github.com/aalap-d/LeetCode/tree/master/0874-walking-robot-simulation) |
+| [1189-maximum-number-of-balloons](https://github.com/aalap-d/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/aalap-d/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aalap-d/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aalap-d/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
