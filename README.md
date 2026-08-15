@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/aalap-d/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/aalap-d/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/aalap-d/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/aalap-d/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aalap-d/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/aalap-d/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aalap-d/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aalap-d/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aalap-d/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/aalap-d/LeetCode/tree/master/3620-network-recovery-pathways) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/aalap-d/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## String
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3474-lexicographically-smallest-generated-string](https://github.com/aalap-d/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aalap-d/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/aalap-d/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/aalap-d/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/aalap-d/LeetCode/tree/master/1622-fancy-sequence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aalap-d/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aalap-d/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/aalap-d/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Fermat's Little Theorem
 |  |
 | ------- |
