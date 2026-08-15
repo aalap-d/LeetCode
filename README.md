@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/aalap-d/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/aalap-d/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aalap-d/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/aalap-d/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/aalap-d/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aalap-d/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aalap-d/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3660-jump-game-ix](https://github.com/aalap-d/LeetCode/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/aalap-d/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/aalap-d/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/aalap-d/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/aalap-d/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3869-count-fancy-numbers-in-a-range](https://github.com/aalap-d/LeetCode/tree/master/3869-count-fancy-numbers-in-a-range) |
 ## Recursion
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aalap-d/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/aalap-d/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/aalap-d/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/aalap-d/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Backtracking
 |  |
 | ------- |
