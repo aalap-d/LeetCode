@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aalap-d/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aalap-d/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/aalap-d/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/aalap-d/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3731-find-missing-elements](https://github.com/aalap-d/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aalap-d/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aalap-d/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/aalap-d/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3620-network-recovery-pathways](https://github.com/aalap-d/LeetCode/tree/master/3620-network-recovery-pathways) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/aalap-d/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aalap-d/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/aalap-d/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aalap-d/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aalap-d/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aalap-d/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/aalap-d/LeetCode/tree/master/3620-network-recovery-pathways) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/aalap-d/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3869-count-fancy-numbers-in-a-range](https://github.com/aalap-d/LeetCode/tree/master/3869-count-fancy-numbers-in-a-range) |
 ## Recursion
 |  |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aalap-d/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/aalap-d/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/aalap-d/LeetCode/tree/master/3620-network-recovery-pathways) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/aalap-d/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Bit Manipulation
 |  |
 | ------- |
