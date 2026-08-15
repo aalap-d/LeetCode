@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/aalap-d/LeetCode/tree/master/1406-stone-game-iii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/aalap-d/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aalap-d/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/aalap-d/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1840-maximum-building-height](https://github.com/aalap-d/LeetCode/tree/master/1840-maximum-building-height) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aalap-d/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aalap-d/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/aalap-d/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aalap-d/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/aalap-d/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/aalap-d/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aalap-d/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aalap-d/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/aalap-d/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/aalap-d/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/aalap-d/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aalap-d/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aalap-d/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
