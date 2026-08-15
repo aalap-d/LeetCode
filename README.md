@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aalap-d/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aalap-d/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aalap-d/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/aalap-d/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aalap-d/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aalap-d/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aalap-d/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/aalap-d/LeetCode/tree/master/1140-stone-game-ii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aalap-d/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/aalap-d/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/aalap-d/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/aalap-d/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aalap-d/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aalap-d/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/aalap-d/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aalap-d/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/aalap-d/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aalap-d/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/aalap-d/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Sliding Window
