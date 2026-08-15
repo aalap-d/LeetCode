@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aalap-d/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/aalap-d/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2126-destroying-asteroids](https://github.com/aalap-d/LeetCode/tree/master/2126-destroying-asteroids) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/aalap-d/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/aalap-d/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aalap-d/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/aalap-d/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aalap-d/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/aalap-d/LeetCode/tree/master/1861-rotating-the-box) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/aalap-d/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aalap-d/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aalap-d/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aalap-d/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/aalap-d/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2069-walking-robot-simulation-ii](https://github.com/aalap-d/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/aalap-d/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/aalap-d/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2751-robot-collisions](https://github.com/aalap-d/LeetCode/tree/master/2751-robot-collisions) |
 | [3614-process-string-with-special-operations-ii](https://github.com/aalap-d/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/aalap-d/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
