@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aalap-d/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/aalap-d/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2126-destroying-asteroids](https://github.com/aalap-d/LeetCode/tree/master/2126-destroying-asteroids) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/aalap-d/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aalap-d/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/aalap-d/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2573-find-the-string-with-lcp](https://github.com/aalap-d/LeetCode/tree/master/2573-find-the-string-with-lcp) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aalap-d/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/aalap-d/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/aalap-d/LeetCode/tree/master/1980-find-unique-binary-string) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/aalap-d/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/aalap-d/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aalap-d/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aalap-d/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -520,4 +522,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/aalap-d/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/aalap-d/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/aalap-d/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
