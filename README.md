@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aalap-d/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aalap-d/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/aalap-d/LeetCode/tree/master/1980-find-unique-binary-string) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/aalap-d/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aalap-d/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2573-find-the-string-with-lcp](https://github.com/aalap-d/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/aalap-d/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/aalap-d/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/aalap-d/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2069-walking-robot-simulation-ii](https://github.com/aalap-d/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/aalap-d/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/aalap-d/LeetCode/tree/master/2751-robot-collisions) |
 | [3614-process-string-with-special-operations-ii](https://github.com/aalap-d/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/aalap-d/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
