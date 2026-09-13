@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/aalap-d/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/aalap-d/LeetCode/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/aalap-d/LeetCode/tree/master/0739-daily-temperatures) |
+| [0835-image-overlap](https://github.com/aalap-d/LeetCode/tree/master/0835-image-overlap) |
 | [0874-walking-robot-simulation](https://github.com/aalap-d/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/aalap-d/LeetCode/tree/master/0877-stone-game) |
 | [0941-valid-mountain-array](https://github.com/aalap-d/LeetCode/tree/master/0941-valid-mountain-array) |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/aalap-d/LeetCode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/aalap-d/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/aalap-d/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/aalap-d/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
