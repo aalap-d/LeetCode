@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/aalap-d/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/aalap-d/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/aalap-d/LeetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/aalap-d/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aalap-d/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/aalap-d/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/aalap-d/LeetCode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/aalap-d/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/aalap-d/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/aalap-d/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3869-count-fancy-numbers-in-a-range](https://github.com/aalap-d/LeetCode/tree/master/3869-count-fancy-numbers-in-a-range) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/aalap-d/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Recursion
 |  |
 | ------- |
